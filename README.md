@@ -1,4 +1,5 @@
-Hello World!
+This is stann37's g=Github page.
+Have a great day.
 
 <!---
 stann37/stann37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
