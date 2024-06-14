@@ -1,4 +1,4 @@
-This is stann37's g=Github page.
+This is stann37's Github page.
 Have a great day.
 
 <!---
